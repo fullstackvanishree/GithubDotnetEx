@@ -123,6 +123,7 @@ namespace Dotnet6ConsoleApp
             int b = 10;//1010
             int result = a & b;
             Console.WriteLine(result);
+            Console.WriteLine(100);
 
             int marks = 100;
             
