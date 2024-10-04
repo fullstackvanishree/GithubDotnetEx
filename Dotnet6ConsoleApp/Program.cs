@@ -129,6 +129,9 @@ namespace Dotnet6ConsoleApp
             
             Console.WriteLine(marks);
             Console.WriteLine("hello");
+            Console.WriteLine("Adding statement for github demo");
+           
+
             /* Accept product name & product price from the user
             if the product price is > 50000 give a discount of 1000Rs
             total amount customer has to pay is ProductPrice - discount + gst(18 % of productprice)
